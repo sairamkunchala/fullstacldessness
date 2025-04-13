@@ -1,0 +1,1 @@
+used SQL workbench for the backend and used react JS for the front end and used JS Express Framework for the API connections and all through the API fetched data from the database and send the date of to the database using API calls
